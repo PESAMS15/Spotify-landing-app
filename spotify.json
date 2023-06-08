@@ -1,0 +1,167 @@
+{
+  "your": [
+    {
+      "type": "Asake Mix",
+      "Artist": "Young jonn, Tiwa savage and Ruger",
+      "Img": "https://i.scdn.co/image/ab67616100005174b17a2dfb94026f0b6b09d524"
+    },
+    {
+      "type": "Rema Mix",
+      "Artist": "Fireboy Dml, Burna Boy and Ayra Starr",
+      "Img": "https://seed-mix-image.spotifycdn.com/v6/img/artist/46pWGuE3dSwY3bMMXGBvVS/en/default"
+    },
+    {
+      "type": "Moody Mix",
+      "Artist": "Benson Boone, Eminem, Billish Ellish and more",
+      "Img": "https://seed-mix-image.spotifycdn.com/v6/img/moody/22wbnEMDvgVIAGdFeek6ET/en/default"
+    },
+    {
+      "type": "Happy Mix",
+      "Artist": "Harry Styles, Nicky Youre, Pinkpantheress...",
+      "Img": "https://seed-mix-image.spotifycdn.com/v6/img/happy/6KImCVD70vtIoJWnq6nGn3/en/default"
+    },
+    {
+      "type": "2010's Mix",
+      "Artist": "Dave, Rema, Tyler, The Creator and more",
+      "Img": "https://seed-mix-image.spotifycdn.com/v6/img/twenty_tens/6Ip8FS7vWT1uKkJSweANQK/en/default"
+    }
+  ],
+  "more": [
+    {
+      "type": "Party Dey",
+      "Artist": "Get the party started with this Naija bangers",
+      "Img": "https://i.scdn.co/image/ab67706f0000000247f4babda3c13ddea91e6187"
+    },
+    {
+      "type": "Keep Fit Club",
+      "Artist": "Your go to Afrobeats workout playlist",
+      "Img": "https://i.scdn.co/image/ab67706f000000025d791d79955871744a231345"
+    },
+    {
+      "type": "Daily Hustle",
+      "Artist": "Grind day motivation",
+      "Img": "https://i.scdn.co/image/ab67706f00000002145696358a460b4f1031e01c"
+    },
+    {
+      "type": "Traffic Jams Naija",
+      "Artist": "Turn traffic stops into jam sessions",
+      "Img": "https://i.scdn.co/image/ab67706f000000021a6672f7d6e8d1533efe714f"
+    },
+    {
+      "type": "Sound Semester",
+      "Artist": "Chill afro music to chill with",
+      "Img": "https://i.scdn.co/image/ab67706f00000002873d58a0c7e7dc19d55c0453"
+    }
+  ],
+  "Mood": [
+    {
+      "type": "Songs to Sing in ...",
+      "Artist": "Make your shower more uplifting by singing aloud...",
+      "Img": "https://i.scdn.co/image/ab67706f00000002329e2c5d3104f8c6a1d16a34"
+    },
+    {
+      "type": "Sad Songs",
+      "Artist": "Songs for a broken heart",
+      "Img": "https://i.scdn.co/image/ab67706f00000002583117b5f326c5759bcd4628"
+    },
+    {
+      "type": "Live Sucks",
+      "Artist": "Having a bad day? we know how it feels",
+      "Img": "https://i.scdn.co/image/ab67706f0000000237499ba650da0f36e8285bd9"
+    },
+    {
+      "type": "Chill Hits",
+      "Artist": "Kick back to the best, new and recent chill hits",
+      "Img": "https://i.scdn.co/image/ab67706f0000000286607d3edd412dcdf39c645a"
+    },
+    {
+      "type": "A Perfect Day",
+      "Artist": "Timeless melodies from your favourite artists...",
+      "Img": "https://i.scdn.co/image/ab67706f000000027e7d4311695c33ff9f92cd53"
+    }
+  ],
+  "poprad": [
+    {
+      "type": "Asake Radio",
+      "Artist": "By Spotify",
+      "Img": "https://seeded-session-images.scdn.co/v1/img/artist/3a1tBryiczPAZpgoZN9Rzg/en"
+    },
+    {
+      "type": "ODUMODUBLVCK...",
+      "Artist": "By Spotify",
+      "Img": "https://seeded-session-images.scdn.co/v1/img/artist/3LOm0AZjpwVQebvkyanjDy/en"
+    },
+    {
+      "type": "Arizzo Radio",
+      "Artist": "By Spotify",
+      "Img": "https://seeded-session-images.scdn.co/v1/img/artist/3xPk338SZ0cjCRZHNT3SCB/en"
+    },
+    {
+      "type": "Davido Radio",
+      "Artist": "By Spotify",
+      "Img": "https://seeded-session-images.scdn.co/v1/img/artist/3xPk338SZ0cjCRZHNT3SCB/en"
+    },
+    {
+      "type": "Zinoleesky Radio",
+      "Artist": "By Spotify",
+      "Img": "https://seeded-session-images.scdn.co/v1/img/artist/6Kp3KWPiVgi33DkJqo9T4g/en"
+    }
+  ],
+  "popalb": [
+    {
+      "type": "Mr. Money With ... ",
+      "Artist": "Asake",
+      "Img": "https://i.scdn.co/image/ab67616d00001e021ee6732ccb8f07bd15b33beb"
+    },
+    {
+      "type": "Timeless",
+      "Artist": "Davido",
+      "Img": "https://i.scdn.co/image/ab67616d00001e02adfc1ac5836f96adac580271"
+    },
+    {
+      "type": "Body & Soul",
+      "Artist": "Joeboy",
+      "Img": "https://i.scdn.co/image/ab67616d00001e02f2ea2619528f10fa2e503c15"
+    },
+    {
+      "type": "Party no dey stop",
+      "Artist": "Adekunle Gold, Zinoleesky",
+      "Img": "https://i.scdn.co/image/ab67616d00001e02a65faecabba47185c9d1da41"
+    },
+    {
+      "type": "More Love, Less...",
+      "Artist": "Wizkid",
+      "Img": "https://i.scdn.co/image/ab67616d00001e02e944c571fca9ea470ebb5821"
+    }
+  ],
+  "popart": [
+    {
+      "type": "Burna Boy",
+      "Artist": "Artist",
+      "Img": "https://i.scdn.co/image/ab67616100005174a0e4780f120345edddeaada9"
+    },
+    {
+      "type": "Bnxn",
+      "Artist": "Artist",
+      "Img": "https://i.scdn.co/image/ab676161000051741fbf1b6f2e6a54662a2507c4"
+    },
+    {
+      "type": "Omah Lay",
+      "Artist": "Artist",
+      "Img": "https://i.scdn.co/image/ab6761610000517433d04fe6260fff45104911f3"
+    },
+    {
+      "type": "Rema",
+      "Artist": "Artist",
+      "Img": "https://i.scdn.co/image/ab67616100005174b193cbc1a9e1d99437b20364"
+    },
+    {
+      "type": "Olamide",
+      "Artist": "Artist",
+      "Img": "https://i.scdn.co/image/ab67616100005174837bcd50a07239283d583cfb"
+    }
+  ],
+  "music": [
+        
+  ]
+}
